@@ -1,0 +1,31 @@
+{
+  "name": "portfolio-grid",
+  "version": "1.0.0",
+  "description": "<img  src='./img/Screenshot 2022-01-01 at 16.59.42.png' >",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george2621/Portfolio-Grid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george2621/Portfolio-Grid/issues"
+  },
+  "homepage": "https://github.com/george2621/Portfolio-Grid#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "nodemailer": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
