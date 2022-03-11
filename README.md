@@ -4,7 +4,7 @@
 ## Description
 
 - A simple website by NodeJs and Handlebars to show my skills, projects, education and contact 
- me by email in addition to download my CV and reach to my Linkedin, GitHub.
+ me by email in addition to reach my CV, Linkedin, GitHub.
 
 <img  src='./public/img/home.png' >
 
