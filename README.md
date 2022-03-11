@@ -6,6 +6,6 @@
 
 ## Description
 
-My portfolio to shwo my skills, projects, education and contact with me 
+My portfolio to show my skills, projects, education and contact with me 
 
 
